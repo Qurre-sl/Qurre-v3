@@ -19,7 +19,7 @@ Simple, convenient and functional plugin loader for SCP: Secret Laboratory
 </p>
 
 <h1 align="center">Select language</h1>
-<h3 align="center">EN <a href=https://github.com/Qurre-sl/Qurre/blob/main/README-RU.md>RU</a></h3>
+<h3 align="center">EN <a href=https://github.com/Qurre-sl/Qurre-v3/blob/main/README-RU>RU</a></h3>
 
 # Installation
 1. Download `Qurre.tar.gz` file from [releases](https://github.com/Qurre-sl/Qurre/releases/latest)
