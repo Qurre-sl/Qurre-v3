@@ -22,9 +22,9 @@
 <h3 align="center"><a href=https://github.com/Qurre-sl/Qurre-v3/blob/main/README.md>EN</a> RU</h3>
 
 # Установка
-1. Скачайте файл `Qurre.tar.gz` из [релизов](https://github.com/Qurre-sl/Qurre/releases/latest)
+1. Скачайте файл `Qurre.tar.gz` из [релизов](https://github.com/Qurre-sl/Qurre-v3/releases/latest)
 2. Поместите папку `Qurre` в `%appdata%` (На линукс: `~/.config`)
-3. Поместите `Assembly-CSharp.dll` в папку с игрой: `SCPSL_Data/Managed` (с заменой файлов)
+3. Поместите Qurre.Loader в `%appdata%`(На линукс: `~/.config`)/SCP Secret Laboratory/LabApi/plugins/global
 4. На этом все, вы успешно установили **Qurre**
 
 # Документация
