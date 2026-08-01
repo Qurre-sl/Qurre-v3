@@ -22,9 +22,9 @@ Simple, convenient and functional plugin loader for SCP: Secret Laboratory
 <h3 align="center">EN <a href=https://github.com/Qurre-sl/Qurre-v3/blob/main/README-RU.md>RU</a></h3>
 
 # Installation
-1. Download `Qurre.tar.gz` file from [releases](https://github.com/Qurre-sl/Qurre/releases/latest)
+1. Download `Qurre.tar.gz` file from [releases](https://github.com/Qurre-sl/Qurre-v3/releases/latest)
 2. Move `Qurre` folder into `%appdata%` (on Linux: `~/.config`)
-3. Move `Assembly-CSharp.dll` into game folder: `SCPSL_Data/Managed` (with file replacement)
+3. Place Qurre.Loader in `%appdata%` (on Linux: `~/.config`)/SCP Secret Laboratory/LabApi/plugins/global
 4. That's all, you have successfully installed **Qurre**
 
 # Documentation
